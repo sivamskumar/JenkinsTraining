@@ -1,0 +1,7 @@
+<suite name="TestCalculatorAPI">
+	<test name="UnitTesting">
+		<classes>
+			<class name="JenkinsBatch.CalculatorAPI.TestCalculatorAPI"></class>
+		</classes>
+	</test>
+</suite>

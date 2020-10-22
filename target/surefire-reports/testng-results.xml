@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestCalculatorAPI" duration-ms="108" started-at="2020-10-22T14:28:41 IST" finished-at="2020-10-22T14:28:41 IST">
+    <groups>
+    </groups>
+    <test name="UnitTesting" duration-ms="108" started-at="2020-10-22T14:28:41 IST" finished-at="2020-10-22T14:28:41 IST">
+      <class name="JenkinsBatch.CalculatorAPI.TestCalculatorAPI">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:JenkinsBatch.CalculatorAPI.TestCalculatorAPI@39c0f4a]" name="startTest" is-config="true" duration-ms="15" started-at="2020-10-22T14:28:41 IST" finished-at="2020-10-22T14:28:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="initResult()[pri:0, instance:JenkinsBatch.CalculatorAPI.TestCalculatorAPI@39c0f4a]" name="initResult" is-config="true" duration-ms="0" started-at="2020-10-22T14:28:41 IST" finished-at="2020-10-22T14:28:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initResult -->
+        <test-method status="PASS" signature="testAdditionWithPositiveValues()[pri:1, instance:JenkinsBatch.CalculatorAPI.TestCalculatorAPI@39c0f4a]" name="testAdditionWithPositiveValues" duration-ms="5" started-at="2020-10-22T14:28:41 IST" finished-at="2020-10-22T14:28:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdditionWithPositiveValues -->
+        <test-method status="PASS" signature="initResult()[pri:0, instance:JenkinsBatch.CalculatorAPI.TestCalculatorAPI@39c0f4a]" name="initResult" is-config="true" duration-ms="0" started-at="2020-10-22T14:28:41 IST" finished-at="2020-10-22T14:28:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initResult -->
+        <test-method status="PASS" signature="testAdditionWithNegativeValues()[pri:2, instance:JenkinsBatch.CalculatorAPI.TestCalculatorAPI@39c0f4a]" name="testAdditionWithNegativeValues" duration-ms="0" started-at="2020-10-22T14:28:41 IST" finished-at="2020-10-22T14:28:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdditionWithNegativeValues -->
+      </class> <!-- JenkinsBatch.CalculatorAPI.TestCalculatorAPI -->
+    </test> <!-- UnitTesting -->
+  </suite> <!-- TestCalculatorAPI -->
+</testng-results>
